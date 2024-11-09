@@ -12,8 +12,8 @@ de orientação, visualizações e exportação de resultados, a ferramenta faci
 
 1. **Clone o Repositório**:
    ```bash
-   git clone <url_do_repositorio>
-   cd lindiwe_tool
+   git clone https://github.com/Muchanga-dev/LINDIWE.git
+   cd LINDIWE
    ```
 
 2. **Instale as Dependências**:
