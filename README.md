@@ -68,5 +68,9 @@ de orientação, visualizações e exportação de resultados, a ferramenta faci
 - **Erros de Carregamento de Dados**: Certifique-se de que os arquivos carregados estão no formato correto e que as colunas estão nomeadas adequadamente.
 - **Conversões de Unidade**: Verifique se as unidades são consistentes em toda a aplicação para evitar discrepâncias na análise.
 
-Para quaisquer dúvidas ou documentação adicional, consulte as dicas de ajuda dentro do aplicativo ou entre em contato.
+### Contribuindo com LINDIWE
+Contribuições são essenciais para o desenvolvimento contínuo do LINDIWE. Se você deseja contribuir, faça um fork do repositório, aplique suas mudanças e abra um pull request para revisão.
+
+### Licença
+O LINDIWE é disponibilizado sob a Licença Apache 2.0, oferecendo flexibilidade para uso pessoal e comercial, garantindo ao mesmo tempo a proteção dos direitos autorais. Consulte o arquivo [LICENSE](https://github.com/Muchanga-dev/FRAMFRAT/blob/main/LICENSE.txt) para obter detalhes completos.
 
