@@ -8,6 +8,8 @@ Desenvolvida em Python com Streamlit, essa ferramenta permite que geólogos faç
 parâmetros de fraturas relevantes e realizem análises estatísticas detalhadas. Com recursos avançados para ajustes 
 de orientação, visualizações e exportação de resultados, a ferramenta facilita estudos geológicos completos.
 
+![LINDIWE](assets/output/image_0.png)
+
 ## Pré-Requisitos
 
 - Certifique-se de que **Python** (versão 3.10 ou superior) esteja instalado em sua máquina. 
@@ -53,18 +55,18 @@ de orientação, visualizações e exportação de resultados, a ferramenta faci
 
 3. **Análise e Visualização**:
    - A ferramenta oferece:
-     - Estatísticas descritivas e histogramas para os parâmetros de fraturas.
+     - Distribuição do tamanho das fraturas Lei de Potência (Power Law)
+       ![LINDIWE](assets/output/image_4.png)
      - Diagramas de roseta e estereográficos para orientação de fraturas.
+       ![LINDIWE](assets/output/image_2.png)
      - Cálculos de intensidade de fratura, espaçamento médio e distribuições de tamanho.
-   - **Exportar Resultados**: Baixe os resultados estatísticos em formato Excel.
+       ![LINDIWE](assets/output/image_6.png)
+  
 
 ## Solução de Problemas
 
 - **Erros de Carregamento de Dados**: Certifique-se de que os arquivos carregados estão no formato correto e que as colunas estão nomeadas adequadamente.
 - **Conversões de Unidade**: Verifique se as unidades são consistentes em toda a aplicação para evitar discrepâncias na análise.
 
-Para quaisquer dúvidas ou documentação adicional, consulte as dicas de ajuda dentro do aplicativo ou entre em contato com a equipe de suporte.
+Para quaisquer dúvidas ou documentação adicional, consulte as dicas de ajuda dentro do aplicativo ou entre em contato.
 
----
-
-Este README fornece os passos necessários para configurar, executar e utilizar a Ferramenta Lindiwe para análise de fraturas geológicas.
