@@ -8,6 +8,15 @@ Desenvolvida em Python com Streamlit, essa ferramenta permite que geólogos faç
 parâmetros de fraturas relevantes e realizem análises estatísticas detalhadas. Com recursos avançados para ajustes 
 de orientação, visualizações e exportação de resultados, a ferramenta facilita estudos geológicos completos.
 
+## Pré-Requisitos
+
+- Certifique-se de que **Python** (versão 3.10 ou superior) esteja instalado em sua máquina. 
+  - Para verificar, execute:
+    ```bash
+    python3 --version
+    ```
+  - Se não estiver instalado, faça o download e a instalação em [python.org](https://www.python.org/downloads/).
+
 ## Instalação
 
 1. **Clone o Repositório**:
