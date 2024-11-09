@@ -1,0 +1,7 @@
+streamlit==1.38.0
+beautifulsoup4==4.12.3
+scipy==1.13.1
+matplotlib==3.8.4
+openpyxl==3.1.2
+mplstereonet==0.6.3
+xlsxwriter==3.2.0
