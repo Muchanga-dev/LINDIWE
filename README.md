@@ -33,18 +33,6 @@ de orientação, visualizações e exportação de resultados, a ferramenta faci
    pip install -r requirements.txt
    ```
 
-3. **Estrutura de Diretórios**:
-   - **app.py**: Ponto de entrada principal para execução da aplicação Streamlit.
-   - **src/utils**:
-     - `conf.py`: Contém funções de configuração e gerenciamento de sessão.
-     - `translations.py`: Gerencia traduções para suporte multilíngue.
-   - **assets/image**: Diretório contendo o logo da aplicação e outras imagens necessárias.
-
-4. **Configuração dos Arquivos de Tradução e Configuração**:
-   Certifique-se de que `translations.py` inclui mapeamentos de dicionário para todas as strings de texto usadas na aplicação, 
-   cobrindo os idiomas suportados (por exemplo, Português e Inglês). 
-   Use `conf.py` para configurar as configurações de sessão ou modificar tags HTML, se necessário.
-
 ## Uso
 
 1. **Execute a Aplicação**:
