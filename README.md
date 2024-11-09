@@ -61,6 +61,7 @@ de orientação, visualizações e exportação de resultados, a ferramenta faci
        ![LINDIWE](assets/output/image_2.png)
      - Cálculos de intensidade de fratura, espaçamento médio e distribuições de tamanho.
        ![LINDIWE](assets/output/image_6.png)
+  - **Exportar Resultados**: Baixe os resultados estatísticos em formato Excel.
   
 
 ## Solução de Problemas
