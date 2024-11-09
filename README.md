@@ -1,9 +1,9 @@
 
-# README para a Ferramenta Lindiwe de Análise de Fraturas Geológicas
+# Lindiwe: Ferramenta de Análise de Fraturas Geológicas, com base na Tecnica de scanline
 
 ## Visão Geral
 
-A Ferramenta Lindiwe oferece uma interface web para análise de fraturas geológicas usando dados de scanline. 
+Indiwe oferece uma interface web para análise de fraturas geológicas usando dados de scanline. 
 Desenvolvida em Python com Streamlit, essa ferramenta permite que geólogos façam upload de dados, selecionem 
 parâmetros de fraturas relevantes e realizem análises estatísticas detalhadas. Com recursos avançados para ajustes 
 de orientação, visualizações e exportação de resultados, a ferramenta facilita estudos geológicos completos.
